@@ -32,18 +32,18 @@ MD5sum: c26439b35e4164952e0b2ae872baddc3
 Description: Driver development kit for arducam tof camera
 
 Package: arducam-usb-sdk-dev
-Version: 2.0.0
+Version: 2.0.1
 Architecture: armhf
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 554
+Installed-Size: 590
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.5), libstdc++6 (>= 4.8.1), libusb-1.0-0 (>= 2:1.0.9)
 Homepage: https://www.arducam.com
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-usb-sdk-dev/arducam-usb-sdk-dev_2.0.0_armhf.deb
-Size: 94874
-SHA256: d12f20f17e3df91ef0d97b99ab82192c041d4d543541b7fe8fcba12f10c89c3f
-SHA1: 3effa57fdf113e2003ed032b32015138034fbd36
-MD5sum: 03309177316b50cac473553efdeb5977
+Filename: pool/main/a/arducam-usb-sdk-dev/arducam-usb-sdk-dev_2.0.1_armhf.deb
+Size: 99854
+SHA256: e5fdc51ac71f7bae0bfb954a9a2bdf061016c5a4cc8662d9b6391e6a7ea41869
+SHA1: 7d3bdee6bb09e3c9dc1664639939a6897f3d17fb
+MD5sum: 41b8351644be08194fdb796ebff34d23
 Description: Arducam USB SDK
 
