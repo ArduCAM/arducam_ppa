@@ -16,19 +16,19 @@ Description: Arducam config parser SDK
  This is a C library.
 
 Package: arducam-pivariety-sdk-dev
-Version: 1.0.0
+Version: 1.0.1
 Architecture: arm64
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 249
+Installed-Size: 253
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4), zlib1g-dev
 Homepage: https://www.arducam.com
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.0_arm64.deb
-Size: 45322
-SHA256: 510fbbd11c09425cd924ef0a8c54b246a93f7a875888e9296dece49344da22b3
-SHA1: 1397040ca66209367729245e361822b26bd76b33
-MD5sum: e0955b93277e38ca130105f677366d3a
+Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.1_arm64.deb
+Size: 45606
+SHA256: 611fc5f4824cf5d109aeb61e77cc8041c5261f0b2271f73cda183c7ab0368eb9
+SHA1: b8e52080ca7ddd66307bb6831dd0b38c473f3232
+MD5sum: 590328c7a937f60f5b6ebac28d6e082c
 Description: Arducam pivariety camera library
   Used to access arducam pivariety camera.
 
