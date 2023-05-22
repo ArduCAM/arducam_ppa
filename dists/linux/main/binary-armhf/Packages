@@ -33,19 +33,19 @@ Description: Arducam pivariety camera library
   Used to access arducam pivariety camera.
 
 Package: arducam-tof-sdk-dev
-Version: 0.0.11
+Version: 0.1.0
 Architecture: armhf
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 107
+Installed-Size: 108
 Depends: arducam-usb-sdk-dev, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
 Homepage: https://www.arducam.com
 Priority: extra
 Section: utils
-Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.0.11_armhf.deb
-Size: 26066
-SHA256: 62af4099c367786299e2d8488695174f727261c3eafb6632d42a53794e6311c9
-SHA1: ea67c3cdc06e044365960a8873ac481548ebb49e
-MD5sum: 1f0ba2378e3e16db621bfa817fa9e455
+Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.0_armhf.deb
+Size: 27756
+SHA256: aceed0424d8f0e0773e6407d35012bdfe2ac60fcf33aaa5662f389f0e8473c9e
+SHA1: ebaa0e2a31854ab96ba250f747f8f9dc2ca96144
+MD5sum: c9d78d96f250f53d82ccd4335c11e325
 Description: Driver development kit for arducam tof camera
 
 Package: arducam-usb-sdk-dev
