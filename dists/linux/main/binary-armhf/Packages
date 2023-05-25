@@ -16,21 +16,21 @@ Description: Arducam config parser SDK
  This is a C library.
 
 Package: arducam-pivariety-sdk-dev
-Version: 1.0.2
 Architecture: armhf
-Maintainer: Arducam <support@arducam.com>
-Installed-Size: 208
-Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4), zlib1g-dev
-Homepage: https://www.arducam.com
+Depends: zlib1g-dev, libc6 (>= 2.4), libgcc-s1 (>= 3.5), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4)
 Priority: optional
 Section: admin
 Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.2_armhf.deb
-Size: 42978
-SHA256: dc285134a72ad1d79af25c6a7367636eece8edc5c18af12a9801bcf63762fd51
-SHA1: 5824807c302df6b09c1a1e76d3dcf72dc972f563
-MD5sum: 46e2250b6d988a14692a0b3bba97b56c
-Description: Arducam pivariety camera library
-  Used to access arducam pivariety camera.
+Size: 32724
+SHA256: 7083f4eb3c7f212c51ecb4d3c440f1e7aaca96d2ce546ca1d54e5f3a85587bbc
+SHA1: 8acfe000b0c897b03bae52044477cf98f812c236
+MD5sum: fbd3bd8580bfa782807dfdd3f5713322
+Description: Arducam pivariety camera library.
+ Used to access arducam pivariety camera.
+Homepage: https://www.arducam.com
+Maintainer: Arducam <support@arducam.com>
+Version: 1.0.2
+Installed-Size: 219
 
 Package: arducam-tof-sdk-dev
 Version: 0.1.0
