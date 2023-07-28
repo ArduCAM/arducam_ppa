@@ -33,19 +33,19 @@ MD5sum: a073bd4a5891dad4c181398da81e823d
 Description: Arducam EVK SDK New (Beta)
 
 Package: arducam-tof-sdk-dev
-Version: 0.1.0
+Version: 0.1.1
 Architecture: amd64
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 132
+Installed-Size: 136
 Depends: arducam-usb-sdk-dev, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
 Homepage: https://www.arducam.com
 Priority: extra
 Section: utils
-Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.0_amd64.deb
-Size: 30750
-SHA256: 15539a25f0754e78dec2a708b4e3a21ba9105073523b78235bbc9a740bbbcc23
-SHA1: 66b025eaeaec747300bf36d92f37023f77053fea
-MD5sum: 3690868b3af6f0b5ee2ce68e8bc9f3b1
+Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.1_amd64.deb
+Size: 31544
+SHA256: 1d50875e6362228cd095a9b088bed329fc64a521809bd7bfbae7966186dffaa7
+SHA1: e447c0d76b4d963e11f75cb77373dce72acfb64d
+MD5sum: 1ba58bd6b135b659e193a884f48188a4
 Description: Driver development kit for arducam tof camera
 
 Package: arducam-usb-sdk-dev
