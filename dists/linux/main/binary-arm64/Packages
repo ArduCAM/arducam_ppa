@@ -50,19 +50,19 @@ Version: 1.0.2
 Installed-Size: 245
 
 Package: arducam-tof-sdk-dev
-Version: 0.1.0
+Version: 0.1.1
 Architecture: arm64
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 132
+Installed-Size: 136
 Depends: arducam-usb-sdk-dev, libc6 (>= 2.17), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
 Homepage: https://www.arducam.com
 Priority: extra
 Section: utils
-Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.0_arm64.deb
-Size: 30068
-SHA256: d9eac83397c24bfdda8c634cbcedf4e875cafe08bebf7925bb56a6f91030f1f1
-SHA1: 32857cd8d5bb6ce26863d6fd41040d004a053a98
-MD5sum: eb0cab2ffa39def65e7f17af6c86a647
+Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.1_arm64.deb
+Size: 30672
+SHA256: 97f58c77d1c47d53120ebd073da5fba2445002d2f6f66f031b1375a6e1f2d4ff
+SHA1: decb86a6933822577251e0c5bd15ec5a99448534
+MD5sum: 02ab8f8956f82595d498c750bda9eacc
 Description: Driver development kit for arducam tof camera
 
 Package: arducam-usb-sdk-dev
