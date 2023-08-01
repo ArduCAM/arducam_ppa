@@ -17,19 +17,19 @@ Description: Arducam config parser SDK
 
 Package: arducam-evk-sdk-beta
 Source: arducam-evk-sdk-beta-dev
-Version: 0.0.5
+Version: 0.0.6
 Architecture: amd64
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 9004
+Installed-Size: 9018
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), libusb-1.0-0 (>= 2:1.0.16), zlib1g (>= 1:1.1.4)
 Homepage: https://www.arducam.com
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-evk-sdk-beta-dev/arducam-evk-sdk-beta_0.0.5_amd64.deb
-Size: 1862154
-SHA256: ee57c003606cc04eacc9f806531cfa3508067bdfc4e9588e4a482b5beca7d307
-SHA1: 7aafd028c66fb7ec5b103d97e60641673f93ad11
-MD5sum: a073bd4a5891dad4c181398da81e823d
+Filename: pool/main/a/arducam-evk-sdk-beta-dev/arducam-evk-sdk-beta_0.0.6_amd64.deb
+Size: 1849672
+SHA256: 3e9a5f905c28e2469ff1f12b77066ab78c37b05b5102265c5bc306402bd528e3
+SHA1: ab0d247b56e0905453c99dd80af97e6e51a2d5ee
+MD5sum: 0e0d0dc0cdba64b119101e90ac449f93
 Description: Arducam EVK SDK New (Beta)
 
 Package: arducam-tof-sdk-dev
