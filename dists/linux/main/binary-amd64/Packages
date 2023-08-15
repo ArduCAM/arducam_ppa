@@ -57,9 +57,9 @@ Homepage: https://www.arducam.com
 Priority: optional
 Section: admin
 Filename: pool/main/a/arducam-usb-sdk-dev/arducam-usb-sdk-dev_2.0.1_amd64.deb
-Size: 121046
-SHA256: 87756abd0f5a1ccbb0c1dcb241846811f2b7ceefbca39e2addd0e07c109fe611
-SHA1: 3f56abe7b3ad2925ff267a368a4938309437d7e7
-MD5sum: dbe14fb94471c96783cde23bd67afe32
+Size: 120932
+SHA256: 28095aa1f1c18b4a30c3ef86fa740eb6f2babfbc9b9eda2576329b3631e63649
+SHA1: 96f1746192d6cc86595069093b3c20b3b12a7f05
+MD5sum: 042c067bf441b48f443bb8bd38173d8e
 Description: Arducam USB SDK
 
