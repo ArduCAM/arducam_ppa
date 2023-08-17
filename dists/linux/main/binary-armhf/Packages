@@ -49,19 +49,19 @@ Version: 1.0.2
 Installed-Size: 219
 
 Package: arducam-tof-sdk-dev
-Version: 0.1.1
+Version: 0.1.2
 Architecture: armhf
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 112
-Depends: arducam-usb-sdk-dev, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
+Installed-Size: 124
+Depends: arducam-usb-sdk-dev, libc6 (>= 2.4), libgcc1 (>= 1:3.5), libstdc++6 (>= 6)
 Homepage: https://www.arducam.com
 Priority: extra
 Section: utils
-Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.1_armhf.deb
-Size: 28534
-SHA256: 83202b13396f4a9af1f15d4eea1a20801cac483c71ee548530b36d4b62cbac0b
-SHA1: 8fb47e81bf40d8fedd04f6f9740b96e844ee8e04
-MD5sum: 5fdfb39117a11ccfe77b9f1984cd7153
+Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.2_armhf.deb
+Size: 27982
+SHA256: 7d9498544d8a3fdcd9c988264db697adf6392dbd3c675809df5c0eb93db80a32
+SHA1: 10d67c6c1ca3bf2aaf67965ea42e0d1ebf2eb8b6
+MD5sum: 05635ab9b088f317be7d749ab4dd8225
 Description: Driver development kit for arducam tof camera
 
 Package: arducam-usb-sdk-dev
