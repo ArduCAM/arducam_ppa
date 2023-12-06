@@ -36,16 +36,16 @@ Architecture: arm64
 Depends: zlib1g-dev, libc6 (>= 2.17), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), zlib1g (>= 1:1.1.4)
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.3_arm64.deb
-Size: 40494
-SHA256: eb62a11efa8cdcd0e18a3b4e10ee36e4271a3428d2f3e85e6d6912b4d5bb5f55
-SHA1: 8677e49c187cd520d26fda0d11303f993cf0e7d6
-MD5sum: 2f379ec0363d7d663fb2021371dcece3
+Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.4_arm64.deb
+Size: 41008
+SHA256: 625bb63406e19597f1f3068883154bac603c0be85630fdb1aad2414ad87b01f3
+SHA1: 2e0ede824eb04efa407ca605c3cae15a0f12c442
+MD5sum: 0305125044b00bdb6dcf877b9a2ea9df
 Description: Arducam pivariety camera library.
  Used to access arducam pivariety camera.
 Homepage: https://www.arducam.com
 Maintainer: Arducam <support@arducam.com>
-Version: 1.0.3
+Version: 1.0.4
 Installed-Size: 364
 
 Package: arducam-tof-sdk-dev
