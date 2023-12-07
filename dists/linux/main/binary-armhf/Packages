@@ -16,19 +16,19 @@ Description: Arducam config parser SDK
  This is a C library.
 
 Package: arducam-evk-sdk-beta-dev
-Version: 0.0.13
+Version: 0.0.14
 Architecture: armhf
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 5687
+Installed-Size: 5685
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2)
 Homepage: https://www.arducam.com
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-evk-sdk-beta-dev/arducam-evk-sdk-beta-dev_0.0.13_armhf.deb
-Size: 1587420
-SHA256: 1e591ec4398fea13207aaafee6bc43bdcd0f6f1b3d5dc01250bc7b377b5ad1ef
-SHA1: daf9aab0b730010a4f1e66118479cfa49d72b1c9
-MD5sum: 26a9aff73761e936e571d235264b4af5
+Filename: pool/main/a/arducam-evk-sdk-beta-dev/arducam-evk-sdk-beta-dev_0.0.14_armhf.deb
+Size: 1584372
+SHA256: e470aee1293911ead5099245dfd625d452f85969c08cf3921b1544460c4364ed
+SHA1: 786c7d0ceb072d04ef2ed3c66a731b325c6fc4fe
+MD5sum: c955436bf4eff1bd2932ac56b2d432b3
 Description: Arducam EVK SDK New (Beta)
 
 Package: arducam-pivariety-sdk-dev
