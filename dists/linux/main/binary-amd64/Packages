@@ -1,5 +1,5 @@
 Package: arducam-config-parser-dev
-Version: 0.1.1-1
+Version: 0.1.2
 Architecture: amd64
 Maintainer: Arducam <support@arducam.com>
 Installed-Size: 29
@@ -7,11 +7,11 @@ Depends: libc6 (>= 2.4)
 Homepage: https://www.arducam.com
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-config-parser-dev/arducam-config-parser-dev_0.1.1-1_amd64.deb
-Size: 7100
-SHA256: 1226a31037e3601a31e63dbda9ac7bedc0d954cb5b5cc76d54b57a6fb0848dd0
-SHA1: e9e7b1c2f8419401e2562cc4abe1e592a19963fa
-MD5sum: f120ab36cfce652e449fea9d52e12116
+Filename: pool/main/a/arducam-config-parser-dev/arducam-config-parser-dev_0.1.2_amd64.deb
+Size: 7138
+SHA256: 6505a3d6a5913d75f7ba1ff8ecdfcf893308d1cfe0e897a74c1abb44f0513673
+SHA1: 72a6fcb4c8861f94f3a86e799628250b3c7b7198
+MD5sum: 89be995fb16cd5e3a4baad80cacfa7bb
 Description: Arducam config parser SDK
  This is a C library.
 
