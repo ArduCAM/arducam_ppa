@@ -47,6 +47,22 @@ SHA1: 5ba3289550b2d88963c22f0c7594a4fbc431fd8d
 MD5sum: b99258c8ce809b7ac5bc05e02f1ff88c
 Description: Arducam EVK SDK New (Beta)
 
+Package: arducam-rgbir-remosaic-dev
+Version: 1.0.1
+Architecture: amd64
+Maintainer: Arducam <support@arducam.com>
+Installed-Size: 38
+Depends: libc6 (>= 2.14)
+Homepage: https://www.arducam.com
+Priority: optional
+Section: admin
+Filename: pool/main/a/arducam-rgbir-remosaic-dev/arducam-rgbir-remosaic-dev_1.0.1_amd64.deb
+Size: 8712
+SHA256: 7757e89de122682760d9c39de40ff0733b49bca49fbb4f975158e3bc28641bc5
+SHA1: c04bf716028a5b419b59cf227c10ca7c5216f990
+MD5sum: a308e5d4dbf7ea7e368df5fcb79031fc
+Description: Arducam rgbir remosaic SDK
+
 Package: arducam-tof-sdk-dev
 Version: 0.1.3
 Architecture: amd64

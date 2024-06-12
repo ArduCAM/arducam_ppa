@@ -64,6 +64,22 @@ Maintainer: Arducam <support@arducam.com>
 Version: 1.0.5
 Installed-Size: 330
 
+Package: arducam-rgbir-remosaic-dev
+Version: 1.0.1
+Architecture: armhf
+Maintainer: Arducam <support@arducam.com>
+Installed-Size: 33
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5)
+Homepage: https://www.arducam.com
+Priority: optional
+Section: admin
+Filename: pool/main/a/arducam-rgbir-remosaic-dev/arducam-rgbir-remosaic-dev_1.0.1_armhf.deb
+Size: 7926
+SHA256: 3284ae6e737f0ae0bc0f57f56d132cd6f0c1942aeaecab5439eb1ad7d1463a9c
+SHA1: 796e9bad9b7561766a8824ba6752046e45d8bbf9
+MD5sum: 82cfb992383b9126b57db494db88c508
+Description: Arducam rgbir remosaic SDK
+
 Package: arducam-tof-sdk-dev
 Version: 0.1.3
 Architecture: armhf
