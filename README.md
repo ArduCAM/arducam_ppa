@@ -8,6 +8,7 @@
 4. arducam-pivariety-sdk-dev
 5. arducam-evk-sdk-beta-dev
 6. arducam-evk-sdk-dev
+7. arducam-rgbir-remosaic-dev
 
 ## Usage
 
