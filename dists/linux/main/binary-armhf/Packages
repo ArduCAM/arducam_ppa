@@ -69,6 +69,23 @@ Architecture: armhf
 Depends: zlib1g-dev, libc6 (>= 2.4), libgcc-s1 (>= 3.5), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4)
 Priority: optional
 Section: admin
+Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.6_armhf.deb
+Size: 37490
+SHA256: 5c58ea97bec199b29869bf46c1d45ea156cd2375745d8cb65c265caf6f66b55e
+SHA1: 1de721254b91741814ba7c2b97f01a2e14337dee
+MD5sum: 4cfd9e32b2d7e0c28dd1db88968ff05c
+Description: Arducam pivariety camera library.
+ Used to access arducam pivariety camera.
+Homepage: https://www.arducam.com
+Maintainer: Arducam <support@arducam.com>
+Version: 1.0.6
+Installed-Size: 338
+
+Package: arducam-pivariety-sdk-dev
+Architecture: armhf
+Depends: zlib1g-dev, libc6 (>= 2.4), libgcc-s1 (>= 3.5), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4)
+Priority: optional
+Section: admin
 Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.5_armhf.deb
 Size: 37182
 SHA256: a6ef2ca82a1a18d51b1b1fa72c79ebdafcb14dc5b6e09c9745a82a3ea2ce2d12
