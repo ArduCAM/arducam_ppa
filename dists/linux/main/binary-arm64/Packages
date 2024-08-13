@@ -115,19 +115,19 @@ MD5sum: 69847779b7f9af73ef004e8aa51b63ea
 Description: Arducam rgbir remosaic SDK
 
 Package: arducam-tof-sdk-dev
-Version: 0.1.9
+Version: 0.1.11
 Architecture: arm64
 Maintainer: Arducam <support@arducam.com>
-Installed-Size: 1452
-Depends: arducam-evk-sdk-dev, libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.2.1), libstdc++6 (>= 5.2)
+Installed-Size: 1593
+Depends: arducam-evk-sdk-dev, libc6 (>= 2.17), libgcc1 (>= 1:4.5), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Homepage: https://www.arducam.com
 Priority: extra
 Section: utils
-Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.9_arm64.deb
-Size: 445346
-SHA256: 7284e2ed69ee44dfb34c0f782f918af616f16271c4dd6b543b5d8ae5379f3e30
-SHA1: 9db65590097afa68a04010624193120b6cd1e8c9
-MD5sum: 8131ce8db25015c82d1cbf4cf3c62202
+Filename: pool/main/a/arducam-tof-sdk-dev/arducam-tof-sdk-dev_0.1.11_arm64.deb
+Size: 466634
+SHA256: e8cc9b74ac67dbc8f32826c1aff11599f61cc03fe5d59e6a61d1b3554d21d41b
+SHA1: 51a948eba6e79d61b89f351c8b14c6ab607b837f
+MD5sum: 49f522ddb74383bda188aaf9ecd314d9
 Description: Driver development kit for arducam tof camera
 
 Package: arducam-tof-sdk-dev
