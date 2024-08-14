@@ -49,6 +49,22 @@ MD5sum: fc7421970fb503179996cd9a9b77ec18
 Description: Arducam EVK SDK New (Beta)
 
 Package: arducam-evk-sdk-dev
+Version: 1.0.3
+Architecture: arm64
+Maintainer: Arducam <support@arducam.com>
+Installed-Size: 7780
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:4.5), libstdc++6 (>= 5.2)
+Homepage: https://www.arducam.com
+Priority: optional
+Section: admin
+Filename: pool/main/a/arducam-evk-sdk-dev/arducam-evk-sdk-dev_1.0.3_arm64.deb
+Size: 1592942
+SHA256: b7d23947cf337d14074f302b48b523d9dbc78fa8a7f53913dea823de7566a07a
+SHA1: 3bda08c5724630e79d083b06d0aec5d5c99bc6b0
+MD5sum: 6aa2b918e64adf57392b8c31badfdf41
+Description: Arducam EVK SDK New (Beta)
+
+Package: arducam-evk-sdk-dev
 Version: 1.0.2
 Architecture: arm64
 Maintainer: Arducam <support@arducam.com>
