@@ -82,20 +82,20 @@ Description: Arducam EVK SDK New (Beta)
 
 Package: arducam-pivariety-sdk-dev
 Architecture: armhf
-Depends: zlib1g-dev, libc6 (>= 2.4), libgcc-s1 (>= 3.5), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4)
+Depends: zlib1g-dev, libc6 (>= 2.4), libgcc-s1 (>= 3.5), libstdc++6 (>= 11), zlib1g (>= 1:1.1.4)
 Priority: optional
 Section: admin
-Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.6_armhf.deb
-Size: 37490
-SHA256: 5c58ea97bec199b29869bf46c1d45ea156cd2375745d8cb65c265caf6f66b55e
-SHA1: 1de721254b91741814ba7c2b97f01a2e14337dee
-MD5sum: 4cfd9e32b2d7e0c28dd1db88968ff05c
+Filename: pool/main/a/arducam-pivariety-sdk-dev/arducam-pivariety-sdk-dev_1.0.7_armhf.deb
+Size: 41060
+SHA256: c338cee14c49400d9408effb65681025ea87561b98d7d894916d04fe33ff13ea
+SHA1: f83b44488488c4f32a5100a55c1f5ebcfb7ec7c2
+MD5sum: 0e90d664906268d651bd94d67742b609
 Description: Arducam pivariety camera library.
  Used to access arducam pivariety camera.
 Homepage: https://www.arducam.com
 Maintainer: Arducam <support@arducam.com>
-Version: 1.0.6
-Installed-Size: 338
+Version: 1.0.7
+Installed-Size: 362
 
 Package: arducam-pivariety-sdk-dev
 Architecture: armhf
