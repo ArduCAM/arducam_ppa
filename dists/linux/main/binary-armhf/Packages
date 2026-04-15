@@ -178,3 +178,18 @@ SHA1: 424c144c7b6641cc3e89d67ff0d04881d07aac83
 MD5sum: 3135aff2e4dbe5e81c5eb93b5ba7a934
 Description: Arducam USB SDK
 
+Package: arducam-uvc-stereo-sdk
+Architecture: armhf
+Depends: libc6:armhf (>= 2.31), libgcc-s1-armhf-cross (>= 3.5), libstdc++6:armhf
+Priority: optional
+Section: libs
+Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.1.0_armhf.deb
+Size: 777674
+SHA256: c43585028389ec30a5e6a2e52169252406a41a8fdd6bec3452f7ae6d7fe4f364
+SHA1: b13e06d2aea62e48eb03fc55eafb84b2c12b30d2
+MD5sum: 306ecb31602303ca2f3f34be8bacc3fc
+Description: Arducam UVC stereo SDK for Flash JSON read/write on Linux
+Maintainer: Arducam
+Version: 0.1.0
+Installed-Size: 1770
+
