@@ -9,6 +9,7 @@
 5. arducam-evk-sdk-beta-dev
 6. arducam-evk-sdk-dev
 7. arducam-rgbir-remosaic-dev
+8. arducam-uvc-stereo-sdk
 
 ## Usage
 
