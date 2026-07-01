@@ -183,13 +183,13 @@ Architecture: arm64
 Depends: libc6 (>= 2.36), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
 Priority: optional
 Section: libs
-Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.2.1_arm64.deb
-Size: 850408
-SHA256: e1d952079fe55993c1e61de77361505cf320234e2b2032eee82b6ae8b992f6b3
-SHA1: abfbfcd798617cf6ccdc4ee97902263c882afd23
-MD5sum: d599c4beda7950b2b1fdd7815e3df8f2
+Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.2.2_arm64.deb
+Size: 850512
+SHA256: ac2ac1f45e5524b6cdb053f4beaaf1385de0ed4b62bdd5829f63639a45a3e52f
+SHA1: b2df6b4df37e55bec4380dcc97f6c99d5f2c055c
+MD5sum: 2ce677177a9209fa565d531e38e27f03
 Description: Arducam UVC stereo SDK for Flash JSON read/write on Linux
 Maintainer: Arducam
-Version: 0.2.1
+Version: 0.2.2
 Installed-Size: 2562
 
