@@ -183,13 +183,13 @@ Architecture: armhf
 Depends: libc6 (>= 2.36), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
 Priority: optional
 Section: libs
-Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.2.1_armhf.deb
-Size: 789684
-SHA256: 74d0eb2ac82b1e732e42b10925dd85469fcd8e8e60bec30419ef39b6e6582220
-SHA1: 20e89d2b5d482c9c13a5390f9fa41d4265ad7b82
-MD5sum: 3aef53a7de4a8e629a9eca508425ee49
+Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.2.2_armhf.deb
+Size: 789702
+SHA256: b0e19c4e6dbf346fcdbc3460f8fa68431c437f280487f38deac1820a1c1f87e0
+SHA1: 4b8f47637f958cc01c3fe3d91ad59f4ccbb259e3
+MD5sum: c0ad886e16eb8959056c0213f0478541
 Description: Arducam UVC stereo SDK for Flash JSON read/write on Linux
 Maintainer: Arducam
-Version: 0.2.1
+Version: 0.2.2
 Installed-Size: 1790
 
