@@ -180,16 +180,16 @@ Description: Arducam USB SDK
 
 Package: arducam-uvc-stereo-sdk
 Architecture: arm64
-Depends: libc6 (>= 2.36), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Depends: libc6 (>= 2.31), libgcc-s1 (>= 3.0), libstdc++6
 Priority: optional
 Section: libs
-Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.2.2_arm64.deb
-Size: 850512
-SHA256: ac2ac1f45e5524b6cdb053f4beaaf1385de0ed4b62bdd5829f63639a45a3e52f
-SHA1: b2df6b4df37e55bec4380dcc97f6c99d5f2c055c
-MD5sum: 2ce677177a9209fa565d531e38e27f03
+Filename: pool/main/a/arducam-uvc-stereo-sdk/arducam-uvc-stereo-sdk_0.3.0_arm64.deb
+Size: 919690
+SHA256: bf083c8992cdb1952a8c7574507147c1e219578709f0a68315294faca4901959
+SHA1: ab1a4e43df09627f39c44fd04549c0e080926cd6
+MD5sum: 5e9c072132484842478fd2febd112914
 Description: Arducam UVC stereo SDK for Flash JSON read/write on Linux
 Maintainer: Arducam
-Version: 0.2.2
-Installed-Size: 2562
+Version: 0.3.0
+Installed-Size: 2626
 
