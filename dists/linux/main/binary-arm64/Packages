@@ -193,3 +193,17 @@ Maintainer: Arducam
 Version: 0.3.0
 Installed-Size: 2626
 
+Package: libarducam-imx704-dev
+Architecture: arm64
+Priority: optional
+Section: libdevel
+Filename: pool/main/liba/libarducam-imx704-dev/libarducam-imx704-dev_1.0.0_arm64.deb
+Size: 102976
+SHA256: b75dc651cbbd585ce1d2cf369b1cdd018704a6b8e4164753939fde258dc2747c
+SHA1: 1f1d362d4be76fe7f2050276963358baf628bc7f
+MD5sum: a3d24d90a38d6b14db143e63e029d8f4
+Description: IMX704 dToF camera development library
+Maintainer: Arducam
+Version: 1.0.0
+Installed-Size: 384
+
