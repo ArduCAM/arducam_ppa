@@ -10,6 +10,7 @@
 6. arducam-evk-sdk-dev
 7. arducam-rgbir-remosaic-dev
 8. arducam-uvc-stereo-sdk
+9. libarducam-imx704-dev
 
 ## Usage
 
